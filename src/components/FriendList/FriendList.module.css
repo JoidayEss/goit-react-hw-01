@@ -1,0 +1,14 @@
+.friends {
+    display: flex;
+    padding: 0;
+    gap: 10px;
+}
+
+.friend {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px black;
+    padding: 15px;
+    border-radius: 8px;
+}

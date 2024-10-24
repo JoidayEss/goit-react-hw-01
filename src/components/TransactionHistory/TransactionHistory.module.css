@@ -1,0 +1,18 @@
+.table {
+    width: 100%;
+    border: solid 1px black;
+    border-collapse: collapse;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+.thead {
+    font-weight: 500;
+    background-color: #2e2e2e;
+    color: #fff;
+}
+
+.tbody {
+    color: #000;
+    text-align: center;
+}
